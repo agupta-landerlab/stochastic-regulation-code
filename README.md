@@ -11,5 +11,5 @@ Regulatory relationships between transcription factors (TFs) and their target ge
 - code to process the K562 scRNA-seq data from the time-resolved experiment of cells at steady-state: the data have been deposited to GEO (GSE202292).
   - Scripts to preprocess raw data: 
   - R based code to generate panels 4B, 4C, S4A, S4G and S4H: stochastic_regulation_figure_4_S4_code_R.ipynb
-  - R based code generate panel 4C:
+  - R based code generate panel 4D: stochastic_regulation_figure_4_ChIP_enrichment_code_R.ipynb 
   - Python based code to generate panels S4C, S4D, S4E, S4F: 
