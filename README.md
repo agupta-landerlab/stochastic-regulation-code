@@ -12,4 +12,4 @@ Regulatory relationships between transcription factors (TFs) and their target ge
   - Scripts to preprocess raw data: 
   - R based code to generate panels 4B, 4C, S4A, S4G and S4H: stochastic_regulation_figure_4_S4_code_R.ipynb
   - R based code generate panel 4D: stochastic_regulation_figure_4_ChIP_enrichment_code_R.ipynb 
-  - Python based code to generate panels S4C, S4D, S4E, S4F: 
+  - Python based code to generate panels S4E, S4F, and to obtain mRNA half lives, burst sizes and frequencies from our data (links to tables with these constants can be found inside the notebook): stochastic_regulation_HALF_LIVES_BURST_SIZE_FREQUENCIES_estimation_figure_S4.ipynb
