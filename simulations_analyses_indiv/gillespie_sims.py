@@ -48,7 +48,7 @@ beta_m2 = koff2 * burst_size2
 
 # TF RNA, TF protein, Target RNA decay rates (using median half-lives)
 gamma_m = np.log(2)/(2.5/60)
-gamma_p = np.log(2)/(24/60)
+gamma_p = np.log(2)/(48/60)
 gamma_m2 = np.log(2)/(3.7/60)
 
 sim_args = (kon, koff, kon2, koff2, beta_m, beta_p, beta_m2, gamma_m, gamma_p, gamma_m2) # txn rate, tsn rate, decay rate
